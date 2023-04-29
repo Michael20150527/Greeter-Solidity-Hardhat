@@ -1,5 +1,5 @@
 # The main steps of using hardhat
-
+```
 npx create-react-app Greeter-Solidity-Hardhat
 
 cd Greeter-Solidity-Hardhat
@@ -53,3 +53,4 @@ npx hardhat run --network localhost .\scripts\deploy.js
 npx hardhat test --network localhost .\test\sample-test.js
 
 npm start
+```
